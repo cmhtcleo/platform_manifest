@@ -3,6 +3,9 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
+  <remote  name="github"
+           fetch="git://github.com/"
+           review="review.cyanogenmod.com" />
   <default revision="master"
            remote="korg" />
 
@@ -22,6 +25,7 @@
   <project path="device/htc/common" name="device/htc/common" />
   <project path="device/htc/passion" name="device/htc/passion" />
   <project path="device/htc/passion-common" name="device/htc/passion-common" />
+  <project path="device/htc/leo" name="cmhtcleo/android_device_htc_leo" revision="gingerbread-aosp" remote="github">
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="device/samsung/crespo" />
   <project path="device/samsung/crespo4g" name="device/samsung/crespo4g" />
