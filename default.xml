@@ -177,7 +177,7 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="korg" />
   <project path="packages/providers/CalendarProvider" name="android/platform_packages_providers_calendarprovider" />
   <project path="packages/providers/ContactsProvider" name="android/platform_packages_providers_contactsprovider" />
-  <project path="packages/providers/DownloadProvider" name="android/platform_packages_providers_DownloadProvider" />
+  <project path="packages/providers/DownloadProvider" name="android/platform_packages_providers_downloadprovider" />
   <project path="packages/providers/DrmProvider" name="android/platform_packages_providers_drmprovider" />
   <project path="packages/providers/GoogleContactsProvider" name="android/platform_packages_providers_googlecontactsprovider" />
   <project path="packages/providers/MediaProvider" name="android/platform_packages_providers_mediaprovider" />
